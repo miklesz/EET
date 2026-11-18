@@ -217,7 +217,7 @@ Jeśli ruch przechodzi przez tunel, usługa widzi adres wyjścia VPN. Zaufanie c
 
 **Tor: trasowanie cebulowe**
 
-Przekaźnik wejściowy zna adres użytkownika. Przekaźnik wyjściowy łączy się z usługą. Role są rozdzielone.
+Przekaźnik wejściowy zna adres użytkownika. Przy połączeniu ze zwykłą witryną przekaźnik wyjściowy kontaktuje się z witryną. Usługi .onion nie używają przekaźnika wyjściowego.
 
 </div></div>
 
@@ -272,9 +272,9 @@ Wiersz 222 polskiej tablicy określa przeznaczenie zakresu, w którym działa ra
 
 **Lokalnie:** w tej samej miejscowości warunki korzystania mogą się różnić ze względu na wiek, dochód, kompetencje czy dostępność urządzeń.
 
-![Korzystanie z internetu na świecie w 2025 r.: miasta 85%, obszary wiejskie 58%.](dostep-do-internetu.svg)
+![Korzystanie z internetu na świecie w 2026 r.: miasta 82%, obszary wiejskie 63%.](dostep-do-internetu.svg)
 
-<p class="small">Korzystanie z internetu na świecie w 2025 r. Źródło: ITU (Międzynarodowy Związek Telekomunikacyjny).</p>
+<p class="small">Korzystanie z internetu na świecie w 2026 r. Źródło: <a href="https://www.itu.int/itu-d/reports/statistics/2026/10/13/ff26-internet-use-in-urban-and-rural-areas/">ITU (Międzynarodowy Związek Telekomunikacyjny)</a>.</p>
 
 ---
 
@@ -329,7 +329,7 @@ Perspektywa człowieka dodaje pytania: **dla kogo działa, w jakich warunkach i 
 - Mikołaj Leszczuk, *Człowiek, ósma warstwa modelu ISO/OSI, jako element ekosystemu teleinformatycznego*, materiały EET AGH (2023) i archiwalny wykład 13 PT (2019).
 - [Rozporządzenie UE 2015/2120, art. 3](https://eur-lex.europa.eu/eli/reg/2015/2120/oj).
 - [Krajowa Tablica Przeznaczeń Częstotliwości, Dz.U. 2026 poz. 1482](https://eli.gov.pl/eli/DU/2026/1482/ogl).
-- [ITU, Facts and Figures 2025: dostęp w miastach i na obszarach wiejskich](https://www.itu.int/itu-d/reports/statistics/2025/10/15/ff25-internet-use-in-urban-and-rural-areas/).
+- [ITU, Facts and Figures 2026: korzystanie z internetu w miastach i na obszarach wiejskich](https://www.itu.int/itu-d/reports/statistics/2026/10/13/ff26-internet-use-in-urban-and-rural-areas/).
 
 Archiwalne wykresy wieku z PT i EET mają różne liczby i nie podają tu porównywalnej daty, populacji ani definicji wskaźnika. Zamiast traktować je jak wyniki współczesnego pomiaru, zachowano zadanie porównania grup wiekowych i wstawiono sprawdzalne dane GUS.
 
